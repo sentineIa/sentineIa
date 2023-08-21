@@ -1,4 +1,4 @@
-## Sentinela
+## Sentinela😎💊💻
 ## As oportunidades multiplicam-se à medida que são agarradas.
 
 <div>
