@@ -1,4 +1,5 @@
-## Faaaala dev, Luigi Aqui!
+## Sentinela
+## As oportunidades multiplicam-se à medida que são agarradas.
 
 <div>
   
