@@ -78,18 +78,8 @@ Música Favorita: LITTLE DARK AGE - MGMT
 <br>
 <br>
 <br>
-
-<div>
-<h2 align="center"> 🔎Knowledge📖 </h2>
-</div>
-<div align = "center">
-<p align = "justify">I worked using Jupyter Notebook for data analysis and AI focusing on social networks applying graphs theory. Nowdays, I focus on mobile develoment as Kotlin and Swift, also I get some badge about CCNA so I love cyber security.
-So I do my best in every specialtation area. My programming languages are Swift, C/C++, Python, Kotlin, Shell Script, and 
-little bit of CSS and Java Script. In other hand, My knowledge languages are Spanish (Native), English (B2 ~ C1), French (A2),
-German (A1), Japanese (N5 ~ N4). Check my repositories and give your opinion I'll do my best and be better every day. Finally, I love watching anime. <br></p>
-<p align = "center">
      <a href="https://skillicons.dev">
-        <img style="margin: 10px"src="https://skillicons.dev/icons?i=androidstudio,bash,linux,git,github,java,kotlin,latex,py,swift,c,cpp,css,html,tensorflow,aws&perline=8"alt="My Skills"/> 
+        <img style="margin: 10px"src="https://skillicons.dev/icons?i=py,aws&perline=8"alt="My Skills"/> 
     </a>
 </p>
 </div>
