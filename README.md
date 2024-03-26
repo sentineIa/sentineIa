@@ -56,7 +56,7 @@ Música Favorita: LITTLE DARK AGE - MGMT
 <br>
 <br>
 
-<p align="right"><a href = "https://www.youtube.com/watch?v=iaYtxFw5TgA"><img src = "https://giphy.com/gifs/zenitsu-Z9JtPniLKdNzPjsEn6" width = "170" align = "left"/></a><b> Hekireki Issen | Zenitsu (Kimetsu no Yaiba) | Enygma
+<p align="right"><a href = "https://www.youtube.com/watch?v=iaYtxFw5TgA"><img src = "https://ibb.co/7X1Rkm6" width = "170" align = "left"/></a><b> Hekireki Issen | Zenitsu (Kimetsu no Yaiba) | Enygma
 <br>
                   
 <br>
