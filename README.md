@@ -119,16 +119,10 @@ Música Favorita: LITTLE DARK AGE - MGMT
 </div>  
 <br>
 <div>
-<h2 align="center">Thank you for reading 🙋🏻‍♂️</h2>
+<h2 align="center">ADEUS 🙋🏻‍♂️</h2>
 <div align="center">
     <img src="https://media.tenor.com/pmjrDsHAQSYAAAAd/hatsunemiku-miku.gif" width="500"/>
   </div>
 <br> 
 <br>
 
-    
-<h1 align="center">Support Me 🎧🎤  </h1>
-
-<p align="center">
-⠀⠀⠀⠀⠀<img src="img/vocaloidchibi.png">
-</p>
