@@ -56,9 +56,6 @@ Música Favorita: LITTLE DARK AGE - MGMT
 <br>
 <br>
 
-<p align="right"><a href = "https://www.youtube.com/watch?v=iaYtxFw5TgA"><img src = "https://ibb.co/7X1Rkm6" width = "170" align = "left"/></a><b> Hekireki Issen | Zenitsu (Kimetsu no Yaiba) | Enygma
-<br>
-                  
 <br>
 <br>
 
@@ -79,26 +76,15 @@ Música Favorita: LITTLE DARK AGE - MGMT
 <br>
 <br>
      <a href="https://skillicons.dev">
-        <img style="margin: 10px"src="https://skillicons.dev/icons?i=py,aws&perline=8"alt="My Skills"/> 
+        <img style="margin: 10px"src="https://skillicons.dev/icons?i=py,&perline=8"alt="My Skills"/> 
     </a>
 </p>
 </div>
 <br>
-<br>
-<br>
-<br>
-<br>
-<br>
-
-=JohnKun136NVCP&theme=2077"
-
-
 </p>
 </div>
 <br>
 <br>
-
-
 
 <h1 align="center"> My contributions game 🐍🎮</h1>
 
