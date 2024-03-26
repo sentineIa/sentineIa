@@ -56,8 +56,9 @@ Música Favorita: LITTLE DARK AGE - MGMT
 <br>
 <br>
 
-<p align="right"><a href = "https://www.youtube.com/watch?v=ziZX0vy8xAM"><img src = "https://i.ytimg.com/vi/ziZX0vy8xAM/maxresdefault.jpg" width = "170" align = "left"/></a><b>奏(かなで)CV:高橋李依とCV:雨宮天<br>
-                  🎵ふたりはいつもどんな時もつながっていける。🎵</b></p>
+<p align="right"><a href = "https://www.youtube.com/watch?v=iaYtxFw5TgA"><img src = "https://giphy.com/gifs/zenitsu-Z9JtPniLKdNzPjsEn6" width = "170" align = "left"/></a><b> Hekireki Issen | Zenitsu (Kimetsu no Yaiba) | Enygma
+<br>
+                  
 <br>
 <br>
 
