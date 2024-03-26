@@ -36,27 +36,16 @@
 <img align="left" src="img/bunny_girlaobuta13.png" width="205px"/> 
 
 ```csharp
-My Profile ver. 4.2.3: 物忘れの時期で思春期症候群「ものわすれのじきでししゅんきしょうこうぐん」
------------------------------------------------------------------------------------
-Username: Yoshio Keima 「吉尾桂馬」
-WhoamI: Physicist and Computer Engineer. Also musician (more or less)
-OS: Garuda Linux "Raptor"
-Shell: zsh 5.9
+Usuário: Sentinela
+Quem sou eu: Sou um bosta que tenta fazer as coisas e sempre falha
+SO: Win 11
 Telegram: @yoshimakayaba.
-Fav.Anime(1): 五等分の花嫁 (The Quintessential Quintuplets)💒📕👰🏻
-Fav.Anime(2): からかい上手の高木さん (Karakai Jōzu no Takagi-san) 🏞️🚅🌠
-Loves: 中野五月 (Nakano Itsuki) (❤️ ω ❤️), videogames 🎮, music 🎹🎶🎵
-Pronouns: He/Him
-Location: Planet Kepler-452b
-Languages: C,C++, Python, Kotlin
-Hobbyes: Python, C, C++
-Learning: Swift, Kotlin, Go, Js,CSS and HTML
-FavouriteSong: Sweeter than wine by NCW
-FavouriteEquation: Schrödinger equation
-Hobbies: Gaming,watching anime,coding while I am listening music
-My.Idols (アイドル): 雨宮天 (Amamiya Sora) || Vocaloid characters || 花澤香菜 (Hanazawa Kana) || 上坂すみれ (Uesaka Sumire)🎤🎶🎼
-Dansei.Seiyuu (男性声優): 松岡禎丞 (Matsuoka Yoshitsugu) || 山口光雄 (amaguchi Mitsuo) || 石川界人 (Ishikawa Kaito)
-Josei.Seiyuu (女性声優): 高橋李依 (Takahashi Rie) && 水瀬いのり(Minase Inori) || 瀬戸麻沙美 (Setō Asami)
+Anime Favoritos: One piece e SAO
+Amores: Inahzete, videogames, música
+Localização: Planeta Kepler-452b
+Idiomas: Python
+Querendo aprendendo: Swift, Kotlin, Go, Js, CSS e HTML
+Música Favorita: LITTLE DARK AGE - MGMT
 
 ```
 
