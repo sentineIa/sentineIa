@@ -39,7 +39,7 @@
 Usuário: Sentinela
 Quem sou eu: Sou um bosta que tenta fazer as coisas e sempre falha
 SO: Win 11
-Telegram: @yoshimakayaba.
+Telegram: @sentinela.
 Anime Favoritos: One piece e SAO
 Amores: Inahzete, videogames, música
 Localização: Planeta Kepler-452b
