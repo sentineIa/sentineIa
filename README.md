@@ -1,8 +1,4 @@
 
-<!---
-<h1 align="center">Hi there I'm John <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px" height="35px"></h1>
-<p align="right">
-    <img src="https://komarev.com/ghpvc/?username=JohnKun136NVCP&color=ff69b4&style=plastic&label=👀+Profile+Views">
 </p>
 
 --->
@@ -12,9 +8,8 @@
 </a>
     <p>
         <img draggable="false"style="witdh:119xp;height:20xp;" src="https://komarev.com/ghpvc/?username=JohnKun136NVCP&style=for-the-badge&color=1C8C8C">
-        <a href="https://t.me/yoshimakayaba"><img  draggable="false" style="witdh:119xp;height:20xp;"src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white">
-        </a>
-    </p>
+     
+    
 
 </div>
 
